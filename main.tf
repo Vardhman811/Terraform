@@ -1,4 +1,4 @@
-local{
+locals{
 gcp = "123"
 }
 
