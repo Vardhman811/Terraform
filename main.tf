@@ -3,5 +3,5 @@ gcp = "123"
 }
 
 output "abc" {
-value = local.abc
+value = local.gcp
 }
